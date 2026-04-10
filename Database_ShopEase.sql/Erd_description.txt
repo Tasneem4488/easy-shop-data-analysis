@@ -1,0 +1,23 @@
+Project 1: Online Store Management System
+
+Scenario:
+A new company, ShopEase, wants to build a database system to manage their online store efficiently. You have been hired as the database designer to create a conceptual schema for their system.
+
+Requirements:
+	•	Each customer has a unique CustomerID, a FullName, Email, PhoneNumber, and Address (Street, City, Country).
+	•	Each product has a unique ProductID, a ProductName, a Price, QuantityInStock, and belongs to one category.
+	•	Each category has a unique CategoryID and a CategoryName.
+	•	Each supplier has a unique SupplierID, a SupplierName, ContactNumber, and Country.
+	•	Each product is supplied by one or more suppliers, and a supplier can supply multiple products.
+	•	Each order has a unique OrderID, an OrderDate, and a TotalAmount, and is placed by one customer.
+	•	Each order contains one or more products, and for each product in an order, the system must store the QuantityOrdered and UnitPrice at the time of purchase.
+	•	Each payment has a unique PaymentID, PaymentDate, PaymentMethod (e.g., Credit Card, PayPal, Bank Transfer), and AmountPaid.
+	•	Each order has exactly one payment, but a payment can only be linked to one order.
+	•	Optionally, each order may have a shipping status with details like ShippingDate, DeliveryDate, and Status (Pending, Shipped, Delivered, Canceled).
+
+Task:
+Design a conceptual schema (ERD) for the ShopEase system.
+Be sure to indicate:
+	•	All primary keys and foreign keys.
+	•	All cardinality constraints (1–1, 1–M, M–N).
+	•	Any assumptions you make during the design.
