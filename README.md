@@ -13,10 +13,10 @@ https://github.com/Tasneem4488/easy-shop-data-analysis/blob/main/Dashboard%20ima
 
 ### Product & Stock
 
-![Dashboard image](Screenshot (8).png)
+![Dashboard image](Screenshota%20(8).png)
 
 ### Details
-![Dashboard image](Screenshot (9).png)
+![Dashboard image](Screenshot%20(9).png)
 
 ---
 
