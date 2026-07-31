@@ -9,14 +9,14 @@ This project analyzes an e-commerce dataset to extract business insights using S
 
 ### Sales & Profit
 
-https://github.com/Tasneem4488/easy-shop-data-analysis/blob/main/Dashboard%20image/Screenshot%20(7).png
+![Dashboard_image](Sales_Profit.png)
 
 ### Product & Stock
 
-![Dashboard image](Screenshota%20(8).png)
+![Dashboard_image](Product_Stock.png)
 
 ### Details
-![Dashboard image](Screenshot%20(9).png)
+![Dashboard_image](Details.png)
 
 ---
 
