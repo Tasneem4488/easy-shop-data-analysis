@@ -9,14 +9,14 @@ This project analyzes an e-commerce dataset to extract business insights using S
 
 ### Sales & Profit
 
-![Dashboard image](Screenshot 7.png)
+![Dashboard image](Screenshot (7).png)
 
 ### Product & Stock
 
-![Dashboard image](Screenshot 8.png)
+![Dashboard image](Screenshot (8).png)
 
 ### Details
-![Dashboard image](Screenshot 9.png)
+![Dashboard image](Screenshot (9).png)
 
 ---
 
